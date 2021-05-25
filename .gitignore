@@ -8,6 +8,7 @@ optimism
 
 # Packages
 node_modules/
+.ssh
 
 # Hardhat build outputs
 artifacts/
